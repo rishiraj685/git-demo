@@ -1,4 +1,4 @@
 # git-demo
 This is  my first Git Repository.
 <br>
-Author- Rishi Raj
+Author- Rishi Raj (Rishi raj)
